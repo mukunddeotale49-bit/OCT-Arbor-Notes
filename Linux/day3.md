@@ -1,6 +1,7 @@
 ## Navigating the File System
 Understanding how to navigate the Linux file system is fundamental to using the operating system effectively. The Linux file system is organized as a hierarchy, starting from the root directory `/`.
-
+- https://www.geeksforgeeks.org/linux-unix/basic-linux-commands/
+  
 ### absolute path starts from "/"
 ### relative path srtars from "./current_dir"
 
