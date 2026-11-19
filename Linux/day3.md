@@ -88,7 +88,7 @@ Efficiently manage files using the following commands:
 | `cd ~` | Go to home directory |
 
 ---
-
+```
 ## commands 
 cd --> change directory
 ls --> list files and folders
@@ -104,4 +104,4 @@ mv --> move file / rename file
 cat --> view file content 
 
 
-
+```
