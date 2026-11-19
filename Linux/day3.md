@@ -88,3 +88,20 @@ Efficiently manage files using the following commands:
 | `cd ~` | Go to home directory |
 
 ---
+
+## commands 
+cd --> change directory
+ls --> list files and folders
+pwd --> present working directory
+mkdir --> make directory (empty)
+touch --> create a file / time update a file
+rm --> remove file
+rmdir --> remove directory(empty)
+rm -r --> remove directory (with files)
+rm -rvf --> remove directory forcefully (with files)
+cp --> copy file
+mv --> move file / rename file
+cat --> view file content 
+
+
+
